@@ -1,6 +1,6 @@
 {
-    "name": "hlg/sdk-opensearch-aliyun",
-    "description": "hlg sdk opensearch aliyun",
+    "name": "zhb127/aliyun-opensearch-sdk",
+    "description": "aliyun opensearch sdk",
     "type": "library",
     "license": "MIT",
     "authors": [
